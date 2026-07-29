@@ -51,13 +51,13 @@ examples/
   before-after.md Five before/after slides for a generic AI startup —
                   the old template's slide vs. what the skill produces
   sample-engagement.md  What a full engagement looks like
-master/
+build/
   pitch-story.skill     Packaged skill, ready to install
 ```
 
 ## Quickstart
 
-**Claude (claude.ai or Claude Code):** upload or install `master/pitch-story.skill`, then say *"help me build my pitch"* and paste everything you have — deck text, memos, architecture docs, customer emails, benchmark results. The more raw material, the better the output. That's the design.
+**Claude (claude.ai or Claude Code):** upload or install `build/pitch-story.skill`, then say *"help me build my pitch"* and paste everything you have — deck text, memos, architecture docs, customer emails, benchmark results. The more raw material, the better the output. That's the design.
 
 **Any other LLM:** paste `RULES.md`, then `SKILL.md`, into your system prompt or context, and attach the reference files when the skill asks for them (they're loaded per phase, not upfront).
 
