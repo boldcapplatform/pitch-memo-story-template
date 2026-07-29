@@ -20,7 +20,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 - "AI-powered," "transforming," "seamless" — borrowed language, which investors read as borrowed thinking.
 - A purpose statement asks for agreement. Agreement is forgotten by the elevator.
 
-**✅ After pitch-story (The World)**
+**✅ After pitch-story (The Shift)**
 
 > Support automation fails because it's built to deflect tickets. We think deflection is the wrong goal — a deflected customer is an angry customer with no receipt. Corely's agents are built to *close* issues, and we measure resolution, not deflection.
 
@@ -28,7 +28,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 
 ---
 
-## 2. The Tribe, Not the TAM
+## 2. The Pull, Not the TAM
 
 **Founder's material:** "Market slide: the CX software market is $145B."
 
@@ -42,7 +42,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 - "Just 2%" is the oldest tell in venture: a plan reasoned from the market's size, not the customer's behavior.
 - Nothing on the slide is evidence. All of it is arithmetic.
 
-**✅ After pitch-story (The Tribe)**
+**✅ After pitch-story (The Pull)**
 
 > We haven't done outbound. Eleven of our fourteen customers came from one Reddit thread where a support lead wrote: "first agent that doesn't make my CSAT worse." They resemble each other: mid-market, post-Zendesk, support teams of 15–40 who own their own P&L. That's who's pulling — and there are thousands of them making the same switch this year.
 
@@ -72,7 +72,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 
 ---
 
-## 4. What Can't Be Cloned, Not the 2x2
+## 4. The Moat, Not the 2x2
 
 **Founder's material:** "Competition slide — we're top right."
 
@@ -86,7 +86,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 - It frames competition as today's feature comparison — exactly the frame AI destroys, since features now converge in weeks.
 - It answers a question nobody asked, and skips the one everybody did: what happens when a well-funded competitor copies you?
 
-**✅ After pitch-story (What Can't Be Cloned)**
+**✅ After pitch-story (The Moat)**
 
 > Assume our feature set ships in a competitor's release by Friday — realistic, in this market. What they don't get: our eval suite of 900 real resolutions, which took two years of closed tickets to build and is why our agent knows when *not* to act. And they don't get our refusal: prospects keep asking us to fall back to a human silently when the agent is unsure. We won't — the agent says "I'm handing you to a person" out loud, because trust is the product. That refusal costs us deals every month. It's also why our tribe evangelizes.
 
@@ -94,7 +94,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 
 ---
 
-## 5. The Character, Not the Logo Parade
+## 5. Why Us, Not the Logo Parade
 
 **Founder's material:** "Team slide: our backgrounds."
 
@@ -108,7 +108,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 - Nothing explains why *this* team is inevitable for *this* problem — the only question the slide exists to answer.
 - Advisor headshots are borrowed credibility, and read that way.
 
-**✅ After pitch-story (The Character, and the bar)**
+**✅ After pitch-story (Why Us, and the bar)**
 
 > Jane ran a 40-person support org before she could code — she spent three years as the human fallback for a "seamless AI" vendor, and Corely is built out of everything that vendor got wrong. John left Meta's ranking team because he wanted models whose mistakes he'd have to answer for by name. We've made four hires and passed on nine — including a brilliant ex-DeepMind researcher who wanted to ship the silent-fallback hack. The engineering seat he'd have filled has been open five months. The bar is the bar.
 
@@ -121,7 +121,7 @@ The running example is a deliberately generic AI startup: **Corely**, building A
 | Theme | Anti-Pattern | Fix |
 | --- | --- | --- |
 | The Opinion | Agreeable mission statement in borrowed language | One belief a smart person would argue with |
-| The Tribe | TAM arithmetic, "just 2%" | Who found you unsold, quoted, and how they resemble each other |
+| The Pull | TAM arithmetic, "just 2%" | Who found you unsold, quoted, and how they resemble each other |
 | Technical Depth | Feature grid, unsourced "10x" claims | One decision with its cost, one rejected architecture, one honest eval |
 | The Moat | 2x2 with yourself top-right | Assume cloned by Friday; what remains is taste + systems |
 | The Team | Logo parade, advisor headshots | What their life forced them to see; the hire they passed on |

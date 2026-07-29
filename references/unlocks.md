@@ -48,4 +48,4 @@ If no unlock is strong enough to lead, tell the founder plainly. A pitch with th
 
 ## Where the Unlocks Land in the Chapters
 
-The unlocks are not a chapter; they are distributed. The research and market unlocks live in the spin's world-state nodes and surface in **The World** and **The Turn**. The technical unlock surfaces in **The Choice** and the Technical Appendix, and its evals sit beside the demo in **How It Feels** (the Annotated Run pattern). The leading unlock must be unmistakable within the first two chapters — without the word "unlock."
+The unlocks are not a chapter; they are distributed. The research and market unlocks live in the spin's world-state nodes and surface in **The Shift** and **Why Now**. The technical unlock surfaces in **The Bets** and the Technical Appendix, and its evals sit beside the demo in **The Product** (the Annotated Run pattern). The leading unlock must be unmistakable within the first two chapters — without the word "unlock."

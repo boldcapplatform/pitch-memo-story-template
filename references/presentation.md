@@ -2,7 +2,7 @@
 
 How to present the five sub-stories every pitch needs — from the founder's context dump, in ways that signal taste and read as native to the AI era. Load in Phase 5. Each section lists its minimum context (the Context Bar): if the dump doesn't clear the bar, output a Context Request for that section instead of a draft.
 
-These patterns are not extra slides. Each one is *how a Story Deck chapter shows its proof*: Proof of Pull lives inside The Tribe, the Map of Defaults inside What Can't Be Cloned, the Annotated Run inside How It Feels, Distribution Beliefs inside The Engine, Fingerprint Bios inside The Character. The taste ledger routes into them (`taste-ledger.md`, "Where Each Component Lands").
+These patterns are not extra slides. Each one is *how a Story Deck chapter shows its proof*: Proof of Pull lives inside The Pull, the Map of Defaults inside The Moat, the Annotated Run inside The Product, Distribution Beliefs inside The Growth Engine, Fingerprint Bios inside Why Us. The taste ledger routes into them (`taste-ledger.md`, "Where Each Component Lands").
 
 ## 1. Traction → "Proof of Pull"
 
@@ -95,7 +95,7 @@ Assemble everything into **one self-contained HTML file** (all CSS inline, no ex
   - A verdict-style closing section (the ask and the standard), and optionally an appendix FAQ carrying the objections in Q&A form — allowed there because by then the story has already been told forward.
   - The dossier demands more material than the narrative: it exposes every framework filled-in, so thin sections are glaring. If more than two sections would carry Context Requests, build the quiet narrative instead and say why.
 
-Structure: title + one-line world → the Retell (set apart, first) → the ten chapters in order, each with its point, proof, and any of the five section patterns above where they belong (Tribe carries Proof of Pull; What Can't Be Cloned carries the Map of Defaults; How It Feels carries the Annotated Run; Engine carries Distribution Beliefs; Character carries Fingerprint Bios) → Technical Appendix (the decisions/tradeoffs/evals table) → the ask and the standard. The Gap List is included only in the founder's copy, never the investor's.
+Structure: title + one-line world → the Retell (set apart, first) → the ten chapters in order, each with its point, proof, and any of the five section patterns above where they belong (The Pull carries Proof of Pull; The Moat carries the Map of Defaults; The Product carries the Annotated Run; The Growth Engine carries Distribution Beliefs; Why Us carries Fingerprint Bios) → Technical Appendix (the decisions/tradeoffs/evals table) → the ask and the standard. The Gap List is included only in the founder's copy, never the investor's.
 
 Design rules: one serif for headings, one system sans for body; generous whitespace; black on off-white; customer voices as pull-quotes; numbers in simple tables with full denominators; no stock icons, no gradients, no logos-as-decoration, no emoji. If a page looks designed, quiet it down. Print CSS: page breaks before each chapter, A4 and Letter safe.
 

@@ -47,7 +47,7 @@ Fit the structure to the graph, not the other way around:
 - **Inevitability arc** (world-motion led) — when the spin nodes are the strongest cluster. Structure: was → becoming → with-us. Best default for market-led pitches.
 - **Discovery arc** (research-led) — when the graph centers on the founder noticing a shift early. Structure: the anomaly noticed → what it implied → what we built to test it → what the evals showed → what it means at scale.
 - **Craft arc** (technical-led) — when Decision nodes with heavy cost edges dominate. Structure: the default everyone accepts → our refusal → the price we paid → the measured property it bought → why that compounds.
-- **Origin arc** (character-led) — when the Character material is unusually strong (rare; use only when the founder's history is itself the moat). Structure: the years that forced the seeing → the thing seen → the company as its inevitable expression.
+- **Origin arc** (character-led) — when the founder-story material (Ch 09 Why Us) is unusually strong (rare; use only when the founder's history is itself the moat). Structure: the years that forced the seeing → the thing seen → the company as its inevitable expression.
 
 Whichever structure is chosen, the taste ledger material gets distributed through it, never ghettoized into a "culture chapter."
 
@@ -55,12 +55,12 @@ Whichever structure is chosen, the taste ledger material gets distributed throug
 
 The arc is the macro-structure; each chapter then runs in a **mode** — a distinct dramatic intent, adapted for pitches from Kendall Haven's story-type research. Choose the mode per chapter, tell the founder which mode each chapter is running, and honor each mode's caution:
 
-- **Framing** → *The World.* Set the frame and leave a question hanging that the rest of the pitch exists to answer. The arguable opinion is the frame.
-- **Struggle** → *The Character.* Focus on the struggle and the motive, never the triumph. The nobility is in the fight, not the founder. *Caution: a struggle that reads as self-serving reverses the message.*
-- **Put-a-Face-on-It** → *The Villain.* One representative person suffering the default, concrete enough to stand for the whole population. *Caution: one attackable detail discounts the entire argument — every detail must be real.*
-- **Wow!** → *The Choice and the technical material.* Reveal the complexity, precision, and care insiders take for granted: the rejected architecture, the eval built from two years of tickets. Depth as drama. *Caution: the audience must be genuinely impressed; never overstate.*
-- **Values-in-Action** → *What Can't Be Cloned and Hold Us to This.* A core value shown under pressure — the refusal that costs deals every month, the promise with teeth. The value must be decisive in the outcome, never decorative.
-- **I-Am-You** → *The Tribe.* The customers' own words proving "we know your issues because we live them." *Caution: never claim a mutuality the quotes don't establish; overstating alienates.*
+- **Framing** → *The Shift.* Set the frame and leave a question hanging that the rest of the pitch exists to answer. The arguable opinion is the frame.
+- **Struggle** → *Why Us.* Focus on the struggle and the motive, never the triumph. The nobility is in the fight, not the founder. *Caution: a struggle that reads as self-serving reverses the message.*
+- **Put-a-Face-on-It** → *Opposing Forces.* One representative person suffering the default, concrete enough to stand for the whole population. *Caution: one attackable detail discounts the entire argument — every detail must be real.*
+- **Wow!** → *The Bets and the technical material.* Reveal the complexity, precision, and care insiders take for granted: the rejected architecture, the eval built from two years of tickets. Depth as drama. *Caution: the audience must be genuinely impressed; never overstate.*
+- **Values-in-Action** → *The Moat and The Ask & the Standard.* A core value shown under pressure — the refusal that costs deals every month, the promise with teeth. The value must be decisive in the outcome, never decorative.
+- **I-Am-You** → *The Pull.* The customers' own words proving "we know your issues because we live them." *Caution: never claim a mutuality the quotes don't establish; overstating alienates.*
 - **Future Vision** → *the spin's third world-state and the closing horizon.* A concrete, vivid scene from the world if the company is right — what exists, what's gone, what nobody tolerates anymore (ledger #12). *Caution: one logically false detail lets the room discount the whole vision. Keep it modest and specific.*
 
 Two standing rules across all modes: the founder is never the hero — the customer is, and the founder is the guide; and no chapter mixes modes — one dramatic intent per chapter, or the chapter blurs.
@@ -73,11 +73,11 @@ Five chapters carry a presentation pattern from `presentation.md` — the patter
 
 | Chapter | Pattern | Ledger material it draws on |
 | --- | --- | --- |
-| The Character | Fingerprint Bios | Hire We Passed On, People We Keep Close |
-| How It Feels | The Annotated Run | How It Feels, Workaround We Refused |
-| The Tribe | Proof of Pull | (Voices nodes: exact customer words) |
-| What Can't Be Cloned | The Map of Defaults | Feature We Killed, Workaround We Refused, Our Promise |
-| The Engine | Distribution Beliefs | The Opinion applied to distribution, GTM refusals |
+| 05 The Product | The Annotated Run | How It Feels, Workaround We Refused |
+| 06 The Pull | Proof of Pull | (Voices nodes: exact customer words) |
+| 07 The Moat | The Map of Defaults | Feature We Killed, Workaround We Refused, Our Promise |
+| 08 The Growth Engine | Distribution Beliefs | The Opinion applied to distribution, GTM refusals |
+| 09 Why Us | Fingerprint Bios | Hire We Passed On, People We Keep Close |
 
 If a chapter's pattern has no material behind it, the chapter gets a Context Request, not filler.
 

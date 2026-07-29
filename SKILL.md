@@ -149,7 +149,7 @@ The test: can every sentence in the output be traced to something the founder ac
 Run in order. Interview conversationally throughout — a few questions at a time, never a form.
 
 1. **Ingest** — collect everything before asking anything: decks, memos, architecture docs, landing page, transcripts, benchmark results.
-2. **Excavate** — interview across three tracks: the ten beats (World, Character, Villain, Turn, Choice, How It Feels, Tribe, What Can't Be Cloned, Engine, Ask), the three unlocks (`unlocks.md`), and the taste ledger (`taste-ledger.md`).
+2. **Excavate** — interview across three tracks: the ten beats (the Shift, Why Now, Opposing Forces, the Bets, the Product, the Pull, the Moat, the Growth Engine, Why Us, the Ask), the three unlocks (`unlocks.md`), and the taste ledger (`taste-ledger.md`).
 3. **Sort** — three piles shown to the founder: fingerprints (proof-bearing), claims (convert or cut), gaps (presented as pre-raise homework).
 4. **Graph** — build the story graph, research the category canon, design the spin, choose the arc, assign each chapter its story mode, cut into 8–12 chapters (`story-graph.md`).
 5. **Draft** — in order: the retell, the 60-second verbal pitch, the one-pager (<600 words), the cold email (<120 words, one fingerprint), chaptered deck copy (one line + one proof per chapter, using the section patterns in `presentation.md`), the written memo (<2,500 words, per the memo spec in `presentation.md`) when the founder's process is document-first, technical appendix. Any section whose Context Bar isn't met gets a Context Request, not a draft.

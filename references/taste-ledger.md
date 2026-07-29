@@ -40,15 +40,15 @@ Every ledger answer has a home in the Story Deck chapters (`template.md`) and th
 
 | Ledger component | Chapter / section it feeds |
 | --- | --- |
-| 1. The Opinion | Ch 1 The World (the arguable belief) |
-| 2. The Tradeoff That Cost Us | Ch 5 The Choice; Technical Appendix |
-| 3. The Feature We Killed | Ch 5 The Choice or Ch 8 What Can't Be Cloned |
-| 4. Why This Taste Wins Now | Ch 4 The Turn |
-| 5. How It Feels | Ch 6 How It Feels — the Annotated Run |
-| 6. The Workaround We Refused | Ch 8 What Can't Be Cloned; the demo's unhappy path |
-| 7. The Hire We Passed On | Ch 2 The Character — the Fingerprint Bios' team bar |
-| 8. Our Promise | Ch 10 Hold Us to This (the non-negotiable) |
+| 1. The Opinion | Ch 01 The Shift (the arguable belief) |
+| 2. The Tradeoff That Cost Us | Ch 04 The Bets; Technical Appendix |
+| 3. The Feature We Killed | Ch 04 The Bets or Ch 07 The Moat |
+| 4. Why This Taste Wins Now | Ch 02 Why Now |
+| 5. How It Feels | Ch 05 The Product — the Annotated Run |
+| 6. The Workaround We Refused | Ch 07 The Moat; the demo's unhappy path in Ch 05 The Product |
+| 7. The Hire We Passed On | Ch 09 Why Us — the Fingerprint Bios' team bar |
+| 8. Our Promise | Ch 10 The Ask & the Standard (the non-negotiable) |
 | 9. The People We Keep Close | Fingerprint Bios closing line |
 | 10. What Influences Us | Conversation and appendix only |
-| 11. Whose Ideologies We Align With | Ch 1 The World, if it carries a consequence; else conversation |
-| 12. Our View of the Future | The spin's third world-state; Ch 10's horizon line |
+| 11. Whose Ideologies We Align With | Ch 01 The Shift, if it carries a consequence; else conversation |
+| 12. Our View of the Future | The spin's third world-state; Ch 10 The Ask & the Standard's horizon line |
