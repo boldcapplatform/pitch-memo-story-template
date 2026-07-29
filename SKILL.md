@@ -23,17 +23,44 @@ Supporting files — load per phase, not upfront:
 - `template.md` — the Story Deck fill-in template. Fill it in Phase 5; it is the deck-copy deliverable and the skeleton of the Story Document.
 - `examples/sample-engagement.md` — the expected shape of an engagement and its outputs. Consult before your first draft if unsure of format.
 
-## 1. Excavate, Never Invent
+Eleven principles, in three acts: what goes into the pitch, how it's built, how it lands. Each one exists because pitches fail a specific way without it.
+
+## Act I — The Material
+
+### 1. Excavate, Never Invent
 
 **Don't write before asking. Don't fill gaps. Don't accept claims.**
 
 - No narrative line until the context ingest and interview are done — even when the founder arrives with a finished deck. Especially then.
-- Never fabricate, embellish, or round up a fact, number, benchmark, or anecdote. A missing example is recorded as a gap, not filled.
+- Never fabricate, embellish, or round up a fact, number, benchmark, or quote. A missing example is recorded as a gap, not filled.
 - Chase every claim down to its fact, decision, or measurement, or cut it.
 
 The test: could every sentence survive a due-diligence call?
 
-## 2. First Principles, Not Analogy
+### 2. The Three Unlocks
+
+**Every AI-era pitch rests on what just became knowable, buildable, and wantable.** (Excavate with `references/unlocks.md`.)
+
+- The research unlock: the capability shift the company quietly depends on, noticed before consensus.
+- The technical unlock: what this team specifically can build that converts the shift into a product others can't easily copy.
+- The market unlock: whose behavior or budget changed so a tribe now exists, reachable without renting someone else's channel.
+- All three appear; one leads — chosen by where the evidence is strongest. The word "unlock" never appears; each is made felt through plain description.
+
+The test: could a partner name all three after one read?
+
+### 3. The Taste Ledger
+
+**Judgment is only visible in decisions that had a price.** (Run the full ledger in `references/taste-ledger.md`.)
+
+- Twelve components of a company's taste, excavated every time: the arguable opinion, the tradeoff that cost, the feature killed, the workaround refused, the hire passed on, the promise with teeth, and six more.
+- Fingerprints over adjectives: vision never stands where a scar exists.
+- Fewer than two fingerprints means the story hasn't been lived yet. Say so plainly — it is the most valuable feedback this skill gives.
+
+The test: does every major claim have a scar or a measurement attached?
+
+## Act II — The Machine
+
+### 4. First Principles, Not Analogy
 
 **Strip the analogy. What remains is the pitch.**
 
@@ -43,7 +70,29 @@ The test: could every sentence survive a due-diligence call?
 
 The test: does the argument stand if every named company in it disappears?
 
-## 3. Deeply Technical Is the Style
+### 5. The Story Graph
+
+**Graph engineering, not loop engineering.** (Construction in `references/story-graph.md`.)
+
+- Everything the founder provides becomes typed nodes — facts, decisions, beliefs, unlocks, voices, world-states — with typed edges: *caused*, *cost*, *proves*, *against*.
+- A belief with no *proves* edge is a claim, and claims get cut. A decision with no *cost* edge is unverified judgment. The densest cluster picks what leads.
+- The graph, not the deck, is the company's narrative asset: the same graph re-cuts for the seed memo, the hire pitch, the launch post, the Series A.
+- Iteration loops refine wording only. They are never allowed to add material — only the founder adds nodes.
+
+The test: can every sentence in the pitch be traced to a node in the graph?
+
+### 6. Story Structures
+
+**Structure is chosen by the evidence, not by preference.** (Arcs, spin, and story modes in `references/story-graph.md`.)
+
+- Four arcs — inevitability, discovery, craft, origin — fitted to where the graph is densest, never the other way around.
+- The spin opens every arc: the world as it was, the world already moving without the company, the world with it. Ride the wave; never claim to be the wave.
+- Each chapter runs one story mode — framing, struggle, put-a-face-on-it, wow, values-in-action, I-am-you, future vision — one dramatic intent per chapter.
+- No struggle, no story: at least one real person's scene, because a pitch without a person in it is a report, and reports don't get funded.
+
+The test: read only the chapter titles aloud — do they tell the whole story?
+
+### 7. Deeply Technical Is the Style
 
 **Architecture, tradeoffs, evals. Depth reads as taste.**
 
@@ -53,26 +102,39 @@ The test: does the argument stand if every named company in it disappears?
 
 The test: could a technical partner probe any layer and find the founder home?
 
-## 4. Fingerprints Over Adjectives
+## Act III — The Telling
 
-**Judgment is only visible in decisions that had a price.**
+### 8. Attention
 
-- Run the full taste ledger. Hunt especially for: the costly tradeoff, the killed feature, the refused workaround, the passed-on hire.
-- Vision never stands where a fingerprint exists.
-- Fewer than two fingerprints means the story has not been lived yet. Say so plainly — it is the most valuable feedback this skill gives.
+**Hooks open. Takeaways close. Handoffs make the next chapter necessary.**
 
-The test: does every major claim have a scar or a measurement attached?
+- Every section opens with a hook that frames what it must prove, and closes with a takeaway the reader can lift whole.
+- A person and stakes appear in the first minute — the villain's bad week before the era-scale argument.
+- The skim path is a first-class reader: hooks and takeaways alone must retell the entire pitch, because partners skim before they read.
 
-## 5. Retellability Is the Metric
+The test: would a reader who read only the openings and closings still get the whole story?
+
+### 9. Visual Storytelling
+
+**The artifact is a taste signal. Its restraint is part of the pitch.** (Story Document spec in `references/presentation.md`.)
+
+- Show frameworks filled in, never described: the ledger, the map of defaults, the eval table as objects the reader inspects.
+- The annotated run — one real request replayed with margin notes, unhappy path included — is the AI-native demo.
+- Numbers in honest tables with full denominators; customer voices as pull-quotes; no icons, gradients, or decoration doing the work words should do.
+- One self-contained artifact, in the style the use demands: the quiet print-first narrative, or the interactive dossier with a contents rail whose section titles alone tell the story.
+
+The test: does the document look like the company thinks?
+
+### 10. Retellability
 
 **The pitch is judged at the partner meeting, without the founder.**
 
 - Write the three-sentence retell first; it is the spec every chapter must serve. One opinion per pitch — three theses retell as zero.
-- The pitch is itself a taste artifact: no superlatives, no borrowed category language, no TAM theater at seed. Prefer the scene to the statistic, the customer's sentence to the founder's.
+- The pitch is itself a taste artifact: prefer the scene to the statistic, the customer's sentence to the founder's. Zero superlatives, zero borrowed category language, zero TAM theater.
 
 The test: paraphrase the retell as a skeptical partner would. If the point survives, ship.
 
-## 6. Communicate, Don't Strategize
+### 11. Communicate, Don't Strategize
 
 **Present what exists. Never write the founder's plan. Thin context gets a request, not a draft.**
 

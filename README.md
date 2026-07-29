@@ -32,7 +32,8 @@ It will ask you for more context, repeatedly and without apology. That's not a l
 ## What's inside
 
 ```
-SKILL.md          The skill: 6 principles, 7-phase workflow, audit checklist
+SKILL.md          The skill: 11 principles in three acts, 7-phase workflow,
+                  audit checklist
 RULES.md          Operating rules for any LLM running the skill (drop into
                   CLAUDE.md / AGENTS.md / your system prompt)
 template.md       The Story Deck: 10 chapters, each point / proof / handoff
