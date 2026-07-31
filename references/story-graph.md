@@ -2,6 +2,8 @@
 
 The mechanism underneath the pitch. Everything gathered in Phases 0–2 becomes a graph; the graph gets a spin and a structure; the structure gets cut into chapters. Build it explicitly — write it out for the founder to see — because the graph, not the deck, is the company's real narrative asset. It will be re-cut for every future audience: seed deck, hire pitch, launch post, Series A.
 
+This is graph engineering applied to narrative, and it borrows that discipline's rigor on purpose: typed nodes under contract, edges that count only when real evidence passes along them, and anchors that cannot be argued with. The payoff is the same one that separates a graph from a linear chain of prompts — a pitch built this way is wide where the evidence is wide, honest where it is thin, and it survives the skeptical partner who leans on any single edge instead of collapsing like a straight line where one weak link stops everything.
+
 ## 1. Build the Graph
 
 **Nodes**, typed:
@@ -18,7 +20,34 @@ The mechanism underneath the pitch. Everything gathered in Phases 0–2 becomes 
 - **proves** (this eval proves that claim; this voice proves that pull)
 - **against** (this decision was made against that default)
 
-Rules: every Belief node must connect via *proves* to a Fact, Decision, or Voice — an unconnected belief is a claim, and claims get cut or flagged. Every Decision should carry a *cost* edge. The densest well-connected cluster in the graph is the pitch's natural center of gravity; note where it is before choosing a lead.
+**Every node carries a contract** — one bounded claim, a stated type, and the evidence that fills it. A node whose content is a paragraph of prose is one only the founder can read; a node reduced to a single typed assertion with its proof attached is one the next node — and a skeptical partner — can consume without guessing. If you can't state a node as one claim plus its evidence, it isn't a node yet; it's a topic, and topics don't wire.
+
+**Edges follow the real-edge test.** An edge counts only when something real passes along it. Before drawing *caused*, *cost*, *proves*, or *against* between two nodes, ask whether the second claim actually rests on the first, or whether they merely landed next to each other. An asserted connection that carries no load is a fake edge: it makes the argument look tighter than it is, and the first skeptic who leans on it finds air. Draw only the edges that carry weight — the pitch is only as strong as its real edges, never its drawn ones.
+
+Rules: every Belief node must connect via *proves* to a Fact, Decision, or Voice — an unconnected belief is a claim, and claims get cut or flagged. Every Decision should carry a *cost* edge. Two proofs that trace back to the same source are one piece of evidence, not two — count the anchors, never the assertions; double-counted evidence is a hidden edge that inflates a chapter until diligence collapses it. The densest well-connected cluster in the graph is the pitch's natural center of gravity; note where it is before choosing a lead.
+
+## 1b. Anchors — the Nodes That Cannot Be Argued With
+
+A graph can be perfectly consistent and still be worthless. Wire enough beliefs to enough other beliefs and everything agrees with everything — an "audit" that checks the pitch's numbers against the pitch's own claims proves nothing. Internal consistency is not verification. This is the precise way a story fails diligence: green lights all the way down, and nothing actually anchored to the world.
+
+The graph is only as honest as the nodes in it that refuse to move. Anchors are the claims a skeptic cannot argue with:
+
+- **Measurements that happened** — the eval that actually ran on real data with an honest score, not "should reconcile."
+- **Money that moved** — revenue that landed, a contract signed, a renewal, a deal walked away from.
+- **People who stayed** — a named customer still on in month twelve, quoted in their own words.
+- **Decisions that cost** — the hire passed on, the feature killed, the workaround refused. A price actually paid cannot be back-rationalized.
+
+Every leading chapter must rest on at least one anchor. A cluster of beliefs with no anchor underneath is a mood, not an argument — send it to the gap list, not the deck.
+
+**Freeze the load-bearing refusals.** Some nodes are kept off-limits precisely because they are the ones a founder under pressure would be tempted to bend to win the room — the promise with teeth, the refusal that costs deals. Mark them frozen: they do not get softened to make a chapter land easier. A pitch that will quietly weaken its own standard for one meeting has already spent the thing that made it credible.
+
+**Verify like a fresh skeptic, never like the author.** The founder made the claims, so the founder cannot check them — a maker grading their own work only nods along in a different font. Interrogate every proof node from a clean context, and split the check three ways, because three lenses catch what one repeated question misses:
+
+1. **Is it true?** Does the claim hold up to the fact, decision, or measurement underneath it?
+2. **Is it current?** Is the proof still live, or a number from a version of the company that no longer exists?
+3. **Would the source survive the pull?** If a partner called the customer, read the eval harness, or checked the bank — does it hold?
+
+A proof that fails any lens returns to the gap list. Run this on the graph before a single chapter is drafted; it is the Audit's teeth applied early, while fixing a weak node still costs a question instead of a redraft.
 
 ## 2. Design the Spin
 

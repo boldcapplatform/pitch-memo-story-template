@@ -75,7 +75,8 @@ The test: does the argument stand if every named company in it disappears?
 **Graph engineering, not loop engineering.** (Construction in `references/story-graph.md`.)
 
 - Everything the founder provides becomes typed nodes — facts, decisions, beliefs, unlocks, voices, world-states — with typed edges: *caused*, *cost*, *proves*, *against*.
-- A belief with no *proves* edge is a claim, and claims get cut. A decision with no *cost* edge is unverified judgment. The densest cluster picks what leads.
+- A belief with no *proves* edge is a claim, and claims get cut. A decision with no *cost* edge is unverified judgment. An edge counts only when real evidence passes along it; a drawn-but-unloaded edge is a fake edge that inflates the argument until diligence collapses it. The densest cluster picks what leads.
+- The graph is only as honest as its anchors — the nodes a skeptic can't argue with (evals that ran, revenue banked, customers who stayed, refusals frozen off-limits). Internal consistency is not verification; every leading chapter rests on at least one anchor.
 - The graph, not the deck, is the company's narrative asset: the same graph re-cuts for the seed memo, the hire pitch, the launch post, the Series A.
 - Iteration loops refine wording only. They are never allowed to add material — only the founder adds nodes.
 
