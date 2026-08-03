@@ -26,6 +26,17 @@ This is graph engineering applied to narrative, and it borrows that discipline's
 
 Rules: every Belief node must connect via *proves* to a Fact, Decision, or Voice — an unconnected belief is a claim, and claims get cut or flagged. Every Decision should carry a *cost* edge. Two proofs that trace back to the same source are one piece of evidence, not two — count the anchors, never the assertions; double-counted evidence is a hidden edge that inflates a chapter until diligence collapses it. The densest well-connected cluster in the graph is the pitch's natural center of gravity; note where it is before choosing a lead.
 
+**The edge grammar.** Edges are typed *and* type-checked: each edge type is legal only between certain node types, which makes a bad connection catchable rather than merely wrong-feeling.
+
+- **proves** may originate only at a **Fact, Voice, or eval** — never at another Belief. A belief that proves a belief is circular; only something from outside the argument can prove it.
+- **cost** may originate only at a **Decision**. A cost with no decision behind it is a complaint, not a fingerprint.
+- **caused** runs from a **World-state or Unlock** into a Decision or Belief — the world moved, and the company responded to it.
+- **against** must target a **World-state** — a named default, incumbent, or reigning average, never a strawman.
+
+Run the grammar as a check: any edge that breaks a type rule is either mislabeled or resting on a node that is not what it claims to be. Fix the node or cut the edge.
+
+**Structure is separable from content.** The node set is the company's *material*; the chapter cut is the *structure* laid over it, and the two move independently. An editor holds the nodes fixed and changes only which cluster leads — producing the seed deck, the hire pitch, or the Series A memo from one graph, the way a compiled program stays fixed while its prompts are tuned. This is why the graph, not any single deck, is the asset: you re-cut the structure without rewriting the material, and no two cuts can contradict each other on a fact, because they read the same Fact node.
+
 ## 1b. Anchors — the Nodes That Cannot Be Argued With
 
 A graph can be perfectly consistent and still be worthless. Wire enough beliefs to enough other beliefs and everything agrees with everything — an "audit" that checks the pitch's numbers against the pitch's own claims proves nothing. Internal consistency is not verification. This is the precise way a story fails diligence: green lights all the way down, and nothing actually anchored to the world.
@@ -48,6 +59,18 @@ Every leading chapter must rest on at least one anchor. A cluster of beliefs wit
 3. **Would the source survive the pull?** If a partner called the customer, read the eval harness, or checked the bank — does it hold?
 
 A proof that fails any lens returns to the gap list. Run this on the graph before a single chapter is drafted; it is the Audit's teeth applied early, while fixing a weak node still costs a question instead of a redraft.
+
+Together these are the graph's **static checks** — the edge grammar, the real-edge test, the anchor requirement, and the three-lens verification. Run them over the artifact before it compiles into prose, the way a program is type-checked before it runs. A graph that passes them is not yet a good pitch, but a graph that fails them cannot become one.
+
+## 1c. What This Graph Is Not
+
+This is a modeling artifact, not an execution engine — and the distinction is worth stating, because "graph" now also names a different thing: the executable prompt and agent graphs that route model calls, run on a scheduler, and are optimized as programs (LangGraph, DSPy, and the like). The story graph borrows their rigor — typed nodes, checkable edges, a versioned artifact you can re-cut — but deliberately stops short of their defining property. It does not run.
+
+- **It is authored, not generated.** Only the founder adds nodes; the skill never invents them. A graph the model fills in on its own is a different object, and a weaker one.
+- **It has no runtime.** No scheduler, no state passed between nodes, no cycles executing. A chapter is a *reading* of the graph, not an execution of it.
+- **Its output is a document, not a trace.** The artifact is the pitch and the reusable node set — something you version and re-cut by hand, not a pipeline that emits answers on demand.
+
+If the day comes to run excavation, verification, and drafting as an actual agent pipeline — fan-out interviews, fresh-context verifier nodes, a synthesized retell — that is a *second* graph, an executable one, layered beneath this one. Keep the two separate: this graph decides what is true and what leads; that graph would decide how the work gets done.
 
 ## 2. Design the Spin
 
