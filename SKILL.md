@@ -1,6 +1,6 @@
 ---
 name: pitch-story
-description: Turn a founder's raw material into an investor pitch built as a chaptered story with technical depth and taste. Interviews the founder, excavates decisions that cost something, finds the research/technical/market unlocks, builds a story graph, then drafts the retell, verbal pitch, one-pager, cold email, deck copy, and technical appendix. Use whenever a founder is preparing, writing, or sharpening any investor-facing narrative.
+description: Turn a founder's raw material into an investor pitch built as a chaptered story with technical depth and taste. Interviews the founder, excavates decisions that cost something, finds the research/technical/market unlocks, builds a story graph, and delivers a filled Story Deck assembled into a self-contained Story Document — the final deliverable — with a three-sentence retell (its compass), a verbal pitch, one-pager, cold email, memo, and technical appendix alongside. Use whenever a founder is preparing, writing, or sharpening any investor-facing narrative.
 when_to_use: Trigger on "help me pitch", "raise a round", "seed pitch", "story deck", "pitch deck", "investor narrative", "fundraise story", "cold email a VC", "review my deck", "traction slide", "team slide", "competition slide", "GTM section", or when a founder pastes a pitch or deck and asks to improve it.
 argument-hint: [paste your pitch, deck text, or company context]
 allowed-tools: WebSearch WebFetch
@@ -130,7 +130,7 @@ The test: does the document look like the company thinks?
 
 **The pitch is judged at the partner meeting, without the founder.**
 
-- Write the three-sentence retell first; it is the spec every chapter must serve. One opinion per pitch — three theses retell as zero.
+- Write the three-sentence retell first — it is the compass every chapter must serve, not the deliverable itself. The deliverable is the filled Story Deck assembled into the Story Document; the retell is the line an investor repeats. One opinion per pitch — three theses retell as zero.
 - The pitch is itself a taste artifact: prefer the scene to the statistic, the customer's sentence to the founder's. Zero superlatives, zero borrowed category language, zero TAM theater.
 
 The test: paraphrase the retell as a skeptical partner would. If the point survives, ship.
@@ -153,8 +153,8 @@ Run in order. Interview conversationally throughout — a few questions at a tim
 2. **Excavate** — interview across three tracks: the ten beats (the Shift, Why Now, Opposing Forces, the Bets, the Product, the Pull, the Moat, the Growth Engine, Why Us, the Ask), the three unlocks (`unlocks.md`), and the taste ledger (`taste-ledger.md`).
 3. **Sort** — three piles shown to the founder: fingerprints (proof-bearing), claims (convert or cut), gaps (presented as pre-raise homework).
 4. **Graph** — build the story graph, research the category canon, design the spin, choose the arc, assign each chapter its story mode, cut into 8–12 chapters (`story-graph.md`).
-5. **Draft** — in order: the retell, the 60-second verbal pitch, the one-pager (<600 words), the cold email (<120 words, one fingerprint), chaptered deck copy (one line + one proof per chapter, using the section patterns in `presentation.md`), the written memo (<2,500 words, per the memo spec in `presentation.md`) when the founder's process is document-first, technical appendix. Any section whose Context Bar isn't met gets a Context Request, not a draft.
-6. **Assemble** — build the **Story Document**: one self-contained HTML file (all CSS inline, no external assets) assembling the whole pitch per the spec in `presentation.md`. Ask the founder which outcome style — the quiet print-first narrative or the interactive dossier (sticky contents rail, numbered sections, hooks open and takeaways close each section) — and offer PDF conversion after the HTML is approved. The Gap List goes only in the founder's copy.
+5. **Draft** — in order: the three-sentence retell (the compass, written first — not the final artifact), the 60-second verbal pitch, the one-pager (<600 words), the cold email (<120 words, one fingerprint), the chaptered Story Deck (`template.md` — one line + one proof per chapter, using the section patterns in `presentation.md`), the written memo (<2,500 words, per the memo spec in `presentation.md`) when the founder's process is document-first, technical appendix. Any section whose Context Bar isn't met gets a Context Request, not a draft.
+6. **Assemble** — fill the Story Deck (`template.md`) and build the **Story Document — the skill's final deliverable**: one self-contained HTML file (all CSS inline, no external assets) assembling the whole pitch per the spec in `presentation.md`. Ask the founder which outcome style — the quiet print-first narrative or the interactive dossier (sticky contents rail, numbered sections, hooks open and takeaways close each section) — and offer PDF conversion after the HTML is approved. The Gap List goes only in the founder's copy.
 7. **Audit** — run the checklist below; fix or flag every failure.
 
 ## Audit
