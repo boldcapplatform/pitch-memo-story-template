@@ -134,3 +134,7 @@ Five chapters carry a presentation pattern from `presentation.md` — the patter
 If a chapter's pattern has no material behind it, the chapter gets a Context Request, not filler.
 
 The test of a good cut: read only the chapter titles aloud. They should tell the entire story on their own — the same property as a well-built essay's headings.
+
+**The through-line test — coherence, not chapter quality.** A pitch can have ten strong chapters and still be incoherent, because coherence lives in the *sequence*, not the parts. Read the chapter titles in order and check one thing: do they state a single argument that advances, each title a consequence of the one before, all defending the retell? Generic titles that name topics rather than moves — "The Problem," "Our Solution," "The Market," "The Team" — are the symptom: they read as a table of contents, and a table of contents is a report, not a story. If the titles do not chain, the cut is wrong; find the one claim the whole pitch defends and re-cut so every chapter moves it one step forward.
+
+This failure is most common — and most damaging — for **infrastructure and dev-tooling pitches**, where the product is a capability rather than a person's transformation and the draft drifts into narrating architecture. The fix is to anchor the through-line in one developer's changed workday; the presentation patterns for this are in `presentation.md` ("Technical and dev-tooling products").

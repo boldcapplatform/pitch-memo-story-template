@@ -63,6 +63,18 @@ Then, once for the team: the pass or the firing that proves the bar, and the two
 
 Context Bar: real history per founder beyond titles; at least one owned decision each; the pass/firing story or an honest "hasn't happened yet" for the gap list.
 
+## Technical and Dev-Tooling Products
+
+Infrastructure and developer tools resist story, because the product is a capability rather than one person's transformation, and the draft drifts into narrating architecture. That drift is the usual cause of an incoherent technical pitch. Ground the whole narrative in one developer's changed workday, and the coherence follows.
+
+- **The villain is a workflow, shown at close range.** Never "developers struggle with observability." Show the moment: the 2am page, the logging bill that tripled in a quarter, the deploy that takes 40 minutes, the flaky test that blocks the merge. One real before-and-after of a single task carries more than any category-level claim.
+- **The wedge before the platform.** Lead with the one job a developer adopts alone, in an afternoon, without asking permission. The platform vision comes after that wedge is believed. A pitch that opens on the platform loses the room that has not yet seen the wedge work.
+- **Adoption is the traction.** Bottom-up products show pull through installs without a sales call, the command run a thousand times, the GitHub thread, what one team did the week after they tried it. Count the developers who came unsold.
+- **Show the diff.** The Annotated Run for a dev tool is a real command or a code diff, before and after, with the latency, the line count, or the error that changed. Depth is the demo; the number sits next to the trace.
+- **Architecture belongs in the technical chapter, not the spine.** Tie each architectural decision to one tradeoff and one eval, and keep it in the Bets chapter and the appendix. The spine of the story is the developer's day, not the system diagram.
+
+Context Bar: one real developer's before/after on a single task; the wedge job named; adoption numbers that came without sales; at least one command or diff with a measured change.
+
 ## The Written Memo
 
 The prose deliverable, for firms that circulate documents rather than sit through decks — increasingly the default at Series A. The memo's job is to do the partner's Monday work for them: it is the investment memo they would otherwise have to write, so every paragraph must survive being copy-pasted into their own doc.
@@ -74,6 +86,7 @@ Craft rules:
 - **Every section ends with a handoff line** that makes the next section necessary. A memo without handoffs is a stack of slides wearing prose.
 - **Under 2,500 words** excluding tables. Partners skim; every section must also survive being read alone.
 - Numbers live in simple tables with full denominators, never in paragraph-length number walls. Customer words appear as quotes, set apart. No adjective where a number exists.
+- **Run the line-edit pass (`line-editing.md`) on the finished memo.** The antithesis ("not X, but Y"), stacked adjectives, hollow intensifiers, and em-dash pile-ups are the tells that mark a memo as machine-written, and a partner will not forward prose that reads like a model produced it. Plain, specific sentences are the credibility.
 - The villain scene goes early — the memo earns attention with one person's bad week before it argues an era.
 - Where context is missing, the slot is visible and itemized (the Context Request, in-line), never smoothed over. A founder's memo with honest slots reads as more credible than a complete memo with hollow sections.
 - The memo and the deck are two cuts of the same graph. They must never disagree on a number.

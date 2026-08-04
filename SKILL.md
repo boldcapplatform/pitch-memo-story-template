@@ -19,7 +19,8 @@ Supporting files — load per phase, not upfront:
 - `references/unlocks.md` — the three unlocks (research, technical, market), excavation questions, which one leads. Load in Phase 2.
 - `references/taste-ledger.md` — twelve taste components with real-vs-fake answer keys. Load in Phase 2.
 - `references/story-graph.md` — story graph construction, category canon research, the spin, structure selection (four arcs), per-chapter story modes (framing, struggle, wow, future vision, and more), chapter cutting. Load in Phase 4.
-- `references/presentation.md` — how to present traction, competitors, demos, GTM, and team; each section's Context Bar; the Story Document spec (the final HTML/PDF deliverable). Load in Phase 5.
+- `references/presentation.md` — how to present traction, competitors, demos, GTM, and team; each section's Context Bar; guidance for technical and dev-tooling products; the Story Document spec (the final HTML/PDF deliverable). Load in Phase 5.
+- `references/line-editing.md` — the anti-slop line-edit pass: banned constructions (the "not X, but Y" antithesis above all), adjective control, em-dash budget, rhythm. Load in Phase 5 before writing prose, and again in Phase 7.
 - `template.md` — the Story Deck fill-in template. Fill it in Phase 5; it is the deck-copy deliverable and the skeleton of the Story Document.
 - `examples/sample-engagement.md` — the expected shape of an engagement and its outputs. Consult before your first draft if unsure of format.
 
@@ -131,7 +132,7 @@ The test: does the document look like the company thinks?
 **The pitch is judged at the partner meeting, without the founder.**
 
 - Write the three-sentence retell first — it is the compass every chapter must serve, not the deliverable itself. The deliverable is the filled Story Deck assembled into the Story Document; the retell is the line an investor repeats. One opinion per pitch — three theses retell as zero.
-- The pitch is itself a taste artifact: prefer the scene to the statistic, the customer's sentence to the founder's. Zero superlatives, zero borrowed category language, zero TAM theater.
+- The pitch is itself a taste artifact: prefer the scene to the statistic, the customer's sentence to the founder's. Zero superlatives, zero borrowed category language, zero TAM theater, zero AI tells — run the line-edit pass (`line-editing.md`), because a document written in the base model's house style tells the reader a machine wrote it.
 
 The test: paraphrase the retell as a skeptical partner would. If the point survives, ship.
 
@@ -153,7 +154,7 @@ Run in order. Interview conversationally throughout — a few questions at a tim
 2. **Excavate** — interview across three tracks: the ten beats (the Shift, Why Now, Opposing Forces, the Bets, the Product, the Pull, the Moat, the Growth Engine, Why Us, the Ask), the three unlocks (`unlocks.md`), and the taste ledger (`taste-ledger.md`).
 3. **Sort** — three piles shown to the founder: fingerprints (proof-bearing), claims (convert or cut), gaps (presented as pre-raise homework).
 4. **Graph** — build the story graph, research the category canon, design the spin, choose the arc, assign each chapter its story mode, cut into 8–12 chapters (`story-graph.md`).
-5. **Draft** — in order: the three-sentence retell (the compass, written first — not the final artifact), the 60-second verbal pitch, the one-pager (<600 words), the cold email (<120 words, one fingerprint), the chaptered Story Deck (`template.md` — one line + one proof per chapter, using the section patterns in `presentation.md`), the written memo (<2,500 words, per the memo spec in `presentation.md`) when the founder's process is document-first, technical appendix. Any section whose Context Bar isn't met gets a Context Request, not a draft.
+5. **Draft** — in order: the three-sentence retell (the compass, written first — not the final artifact), the 60-second verbal pitch, the one-pager (<600 words), the cold email (<120 words, one fingerprint), the chaptered Story Deck (`template.md` — one line + one proof per chapter, using the section patterns in `presentation.md`), the written memo (<2,500 words, per the memo spec in `presentation.md`) when the founder's process is document-first, technical appendix. Run the line-edit pass (`line-editing.md`) on every section as you write it — the graph makes the pitch true, the line-edit makes it read like a person wrote it. Any section whose Context Bar isn't met gets a Context Request, not a draft.
 6. **Assemble** — fill the Story Deck (`template.md`) and build the **Story Document — the skill's final deliverable**: one self-contained HTML file (all CSS inline, no external assets) assembling the whole pitch per the spec in `presentation.md`. Ask the founder which outcome style — the quiet print-first narrative or the interactive dossier (sticky contents rail, numbered sections, hooks open and takeaways close each section) — and offer PDF conversion after the HTML is approved. The Gap List goes only in the founder's copy.
 7. **Audit** — run the checklist below; fix or flag every failure.
 
@@ -165,9 +166,10 @@ Run in order. Interview conversationally throughout — a few questions at a tim
 - The technical chapter names two real tradeoffs and one rejected architecture; every claim cites its benchmark or eval.
 - Two or more fingerprints with costs stated; the tribe quoted in its own words at least once.
 - Zero superlatives, zero TAM theater; the ask ends with a standard, not just a number.
+- The line-edit pass is clean (`line-editing.md`): no "X, not Y" antithesis unless a contrast is genuinely load-bearing; em-dashes within budget (one per paragraph, none in headlines); adjective density under one per sentence; zero banned intensifiers and abstraction openers.
 - Traction, competitors, demo, GTM, and team each follow their presentation pattern — or carry a Context Request where the bar wasn't met. No section was strategized into existence.
 - The Story Document is one self-contained HTML file, prints cleanly, and the Gap List appears only in the founder's copy.
-- Chapter titles alone tell the whole story. The retell survives skeptical paraphrase.
+- Chapter titles alone tell the whole story, and read as one advancing argument rather than separate topics (the through-line test — the failure mode for technical and dev-tooling pitches). The retell survives skeptical paraphrase.
 
 ---
 
