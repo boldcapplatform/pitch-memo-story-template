@@ -52,3 +52,14 @@ Every ledger answer has a home in the Story Deck chapters (`template.md`) and th
 | 10. What Influences Us | Conversation and appendix only |
 | 11. Whose Ideologies We Align With | Ch 01 The Shift, if it carries a consequence; else conversation |
 | 12. Our View of the Future | The spin's third world-state; Ch 10 The Ask & the Standard's horizon line |
+
+## Taste in the Argument: the Belief-Stack
+
+The clearest taste signal in a whole pitch is not a single component above. It is whether the founder can name, in two or three sentences, exactly what a skeptic must believe for the company to be a fundable bet — and attach a real proof to each. A team that does this has found the spine of its own argument. A team that answers with five theses, or with vision and no proof, has not lived the story yet. Say so; it is the most useful feedback the ledger gives at the memo stage.
+
+Two moves make the belief-stack read as taste rather than assertion:
+
+- **Name the thesis, structurally.** The strongest opinions (component #1) are contrarian *and* mechanical, and they carry a name the reader can repeat — a claim about how the category actually plays out, grounded in a mechanism. A named thesis with a mechanism behind it is taste; a slogan about transforming an industry is its absence.
+- **A proof under every belief.** Attach one line of evidence to each belief — a customer's behavior, a measured result, a decision that cost something. Where the proof does not exist yet, mark the gap in plain sight; an honestly flagged gap reads as more credible than a smoothed assertion. This is the ledger's real-vs-fake test applied to the argument itself.
+
+**The technical north star** is a related signal worth naming on its own: the forward architectural bet a company is building toward. Stated with the mechanism and the rigorous system it borrows its form from, it is taste — a team that can see where the category goes. Stated as futurism, it is filler. It belongs in the moat chapter and the technical appendix, dated as a bet, never in the opening claim and never blurred with what already shipped.

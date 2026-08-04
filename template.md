@@ -26,6 +26,18 @@ Three sentences an investor will repeat at their partner meeting. Every chapter 
 
 ---
 
+## What the Reader Must Believe (the spine)
+
+The two or three load-bearing beliefs an investor must accept for this to be a fundable round — the memo's coherence spine, and the executive summary's core. Name each, and attach one line of proof beneath it: a fact, a customer's behavior, an eval — never an assertion. Every chapter below defends exactly one belief; a chapter that defends none gets cut. Read these beliefs, then the chapter titles in order: the titles should be these beliefs, paid off one at a time.
+
+- **Belief 1** — _____ **· Proof:** _____
+- **Belief 2** — _____ **· Proof:** _____
+- **Belief 3** — _____ **· Proof:** _____
+
+*A belief with no proof yet is not a weakness to hide; write it as a marked gap. An honestly flagged gap survives diligence — a smoothed assertion does not.*
+
+---
+
 ## 01 · The Shift
 
 *Replaces: Company Purpose · Mode: Framing · Carries: the market unlock · Ledger: #1 The Opinion, #11 Ideologies (only with a consequence)*

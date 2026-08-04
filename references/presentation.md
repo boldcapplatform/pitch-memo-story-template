@@ -79,7 +79,13 @@ Context Bar: one real developer's before/after on a single task; the wedge job n
 
 The prose deliverable, for firms that circulate documents rather than sit through decks — increasingly the default at Series A. The memo's job is to do the partner's Monday work for them: it is the investment memo they would otherwise have to write, so every paragraph must survive being copy-pasted into their own doc.
 
-Structure: the retell first, set apart, before anything else. Then the chapters as sections — same cut as the deck, same order, prose instead of slides. Then the technical appendix. Then the ask and the standard, last. Nothing before the retell, nothing after the ask.
+Structure: an executive summary first, then the chapters as sections — same cut as the deck, same order, prose instead of slides. Then the technical appendix. Then the ask and the standard, last.
+
+**The executive summary carries the spine.** It does five things, in order: (1) one line on what the company does, for whom, and the wedge it lands with; (2) the beachhead customer and the acute pain, shown concretely, not sized as a market; (3) current traction in a sentence — the deal size, the cycle, the count; (4) **the belief-stack**; (5) the ask, framed as what it specifically accelerates.
+
+The **belief-stack** is the strongest device in a good memo and the memo's coherence spine: the two or three load-bearing beliefs an investor must accept for this to be a fundable round, each with one line of proof beneath it. Naming what a skeptic must believe — and proving each — does three jobs at once: it shows the founder knows where the argument is load-bearing, it hands the partner the structure to argue back or agree, and it tells every later section what to defend. **Each chapter that follows defends exactly one belief.** A chapter that defends none is a digression; cut it. This is the through-line test (`story-graph.md`) applied to prose: read the belief-stack, then the section headings, and the headings should be those beliefs, paid off one at a time.
+
+**A section spine for a technical or enterprise memo** — reorder to where the evidence is strongest, never fill by rote: Vision (the contrarian thesis, given a name) → Product (the architecture, and the one decision that is the USP) → Technical North Star (the forward bet that becomes the moat) → Economics → Go-to-Market (the ICP, drawn tightly) → Competition (framed by architecture, ICP, and economic ceiling, never a 2×2) → Traction → Team → Use of Funds.
 
 Craft rules:
 - **Headings are declarative sentences in the company's words**, never framework labels. "Power follows scarcity, and scarcity just moved" — a partner reading only the headings gets the whole argument. This is the chapter-titles test applied to prose.
@@ -87,6 +93,9 @@ Craft rules:
 - **Under 2,500 words** excluding tables. Partners skim; every section must also survive being read alone.
 - Numbers live in simple tables with full denominators, never in paragraph-length number walls. Customer words appear as quotes, set apart. No adjective where a number exists.
 - **Run the line-edit pass (`line-editing.md`) on the finished memo.** The antithesis ("not X, but Y"), stacked adjectives, hollow intensifiers, and em-dash pile-ups are the tells that mark a memo as machine-written, and a partner will not forward prose that reads like a model produced it. Plain, specific sentences are the credibility.
+- **A proof under every belief.** Each belief and each load-bearing claim carries an explicit proof line — a fact, a customer's behavior, an eval — set off plainly (a colon, a "Proof:", its own sentence). A claim with no proof line goes to the gap list, in plain sight, never asserted past.
+- **Separate what shipped from what is the bet.** A memo that blurs the two fails the moment a partner asks "is this live?" Mark the forward bet — the technical north star — as a bet, dated, and keep it distinct from the traction that already happened. A credible, dated bet raises the ceiling; a bet dressed as traction sinks the memo. This is the most common flaw in an otherwise strong technical memo.
+- **Depth is credibility in the technical section.** Go deep enough that a technical partner finds the founder home: the key architectural decision, the mechanism that makes it hold, one rigorous system whose *form* the design borrows (never its words), and the eval that proves the property. Shallow technical prose reads as a wrapper.
 - The villain scene goes early — the memo earns attention with one person's bad week before it argues an era.
 - Where context is missing, the slot is visible and itemized (the Context Request, in-line), never smoothed over. A founder's memo with honest slots reads as more credible than a complete memo with hollow sections.
 - The memo and the deck are two cuts of the same graph. They must never disagree on a number.
