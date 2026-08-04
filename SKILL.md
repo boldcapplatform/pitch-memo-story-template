@@ -16,6 +16,7 @@ If material was passed with the invocation, treat it as the founder's initial in
 
 Supporting files — load per phase, not upfront:
 
+- `WORKFLOW.md` — the operating protocol: the skill run as a gated, stateful **system** — the state object, the approval gates, the two loops, the coherence checks, and the pitch-story ↔ Story Architect handoff. Load it first and follow it to run a full engagement; the seven phases below are its summary.
 - `references/unlocks.md` — the three unlocks (research, technical, market), excavation questions, which one leads. Load in Phase 2.
 - `references/taste-ledger.md` — twelve taste components with real-vs-fake answer keys. Load in Phase 2.
 - `references/story-graph.md` — story graph construction, category canon research, the spin, structure selection (four arcs), per-chapter story modes (framing, struggle, wow, future vision, and more), chapter cutting. Load in Phase 4.
@@ -147,6 +148,8 @@ The test: paraphrase the retell as a skeptical partner would. If the point survi
 The test: can every sentence in the output be traced to something the founder actually gave?
 
 ## Workflow
+
+For a full engagement, run the gated, stateful version in `WORKFLOW.md` — it adds the state object (the graph, the belief-stack, the gap list, the config), three approval gates, and the two loops. The seven phases below are its summary.
 
 Run in order. Interview conversationally throughout — a few questions at a time, never a form.
 
